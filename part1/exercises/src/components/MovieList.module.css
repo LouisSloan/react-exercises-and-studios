@@ -1,7 +1,9 @@
 .movieText {
-   color: black;
+   color: rebeccapurple;
 }
 
 .movieHeading {
-   color: black;
+   color: darkviolet;
+   text-align: left;
+   font-size: medium;
 }
